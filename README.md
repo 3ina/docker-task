@@ -91,23 +91,11 @@ cd frontend
 
 
 
-1. ایجاد فایل `.env.development` در پوشه اصلی فرانت‌اند با محتوای زیر:
 
-```
-VUE_APP_API_URL=http://localhost:3000
-```
-
-2. ایجاد فایل `.env.production` در پوشه اصلی فرانت‌اند با محتوای زیر:
-
-```
-VUE_APP_API_URL=http://backend:3000
-```
-
-توجه کنید که در محیط تولید، ما از نام سرویس `backend` به جای `localhost` استفاده می‌کنیم که در فایل docker-compose تعریف خواهد شد.
-
-3. تست اجرای فرانت‌اند:
+1. تست اجرای فرانت‌اند:
 
 ```bash
+npm install
 npm run serve
 ```
 
