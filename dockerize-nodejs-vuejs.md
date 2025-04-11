@@ -1,7 +1,7 @@
 <div dir="rtl" style="text-align: right; font-family: Arial, sans-serif;">
 # راهنمای جامع داکرایز کردن پروژه Node.js و Vue.js
 
-این راهنما به شما کمک می‌کند تا یک پروژه کامل شامل بک‌اند Node.js (Express) و فرانت‌اند Vue.js را با استفاده از Docker و Docker Compose راه‌اندازی کنید. این راهنما برای دانشجویان با دانش متوسط برنامه‌نویسی و آشنایی مقدماتی با Docker طراحی شده است.
+این راهنما به شما کمک می‌کند تا یک پروژه کامل شامل بک‌اند Node.js (Express) و فرانت‌اند Vue.js را با استفاده از Docker و Docker Compose راه‌اندازی کنید. 
 
 ## پیش‌نیازها
 
