@@ -30,7 +30,7 @@ export default {
       loading: false,
       error: null,
       // آدرس API بک‌اند - این مقدار در محیط داکر تغییر خواهد کرد
-      apiUrl: process.env.VUE_APP_API_URL || 'http://localhost:3000'
+      apiUrl: 'http://localhost:3000'
     };
   },
   methods: {
