@@ -125,7 +125,7 @@ cd ../backend
 
 ```dockerfile
 # استفاده از تصویر رسمی Node.js
-FROM node:14-alpine
+FROM node:18-alpine
 
 # تنظیم دایرکتوری کاری
 WORKDIR /app
